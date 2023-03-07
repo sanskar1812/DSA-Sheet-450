@@ -9,4 +9,5 @@ Love Babbar DSA Sheet of 450 Problem's
   <li>Move all negative elements to end  --> <a href="https://github.com/sanskar1812/DSA-Sheet-450/blob/main/5_move_all_negative.java">Solution</a></li>
   <li>Union of two arrays  --> <a href="https://github.com/sanskar1812/DSA-Sheet-450/blob/main/6_union.java">Solution</a></li>  
   <li>Cyclically rotate an array by one  --> <a href="https://github.com/sanskar1812/DSA-Sheet-450/blob/main/7_cyclically_rotate.java">Solution</a></li>  
+  <li>Kadane's Algorithm  --> <a href="https://github.com/sanskar1812/DSA-Sheet-450/blob/main/8_Kadane_Algorithm.java">Solution</a></li>  
 </ol>
